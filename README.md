@@ -10,4 +10,4 @@ the file must follow the naming conventions.
 - file name must include actual behavior
   - Ex) install_kubeadm.sh -> install the kubernetes in the system
   - Ex) set_envirn_for_[program name].sh -> setting the linux environment for specific program
-  - "I just recommend to check and write some scripts for making environments, not to be devastated for preparing FXXKING package"
+### "I just recommend to check and write some scripts for making environments, not to be devastated for preparing FXXKING package"
